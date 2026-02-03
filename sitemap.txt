@@ -5,9 +5,9 @@ https://zhuxinchen-code-learning.github.io/2026/02/02/%E6%88%91%E7%9A%84%E7%AC%A
 https://zhuxinchen-code-learning.github.io/archives/index.html
 https://zhuxinchen-code-learning.github.io/2026/02/02/hello-world/
 https://zhuxinchen-code-learning.github.io/
+https://zhuxinchen-code-learning.github.io/tags/%E6%8A%80%E6%9C%AF/
+https://zhuxinchen-code-learning.github.io/tags/%E6%8A%80%E6%9C%AF/
 https://zhuxinchen-code-learning.github.io/tags/Hexo/
 https://zhuxinchen-code-learning.github.io/tags/Blog/
 https://zhuxinchen-code-learning.github.io/tags/Test/
-https://zhuxinchen-code-learning.github.io/tags/%E6%8A%80%E6%9C%AF/
-https://zhuxinchen-code-learning.github.io/tags/%E6%8A%80%E6%9C%AF/
 https://zhuxinchen-code-learning.github.io/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/
