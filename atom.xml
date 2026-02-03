@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Zhuxinchen Blog</title>
+  
+  <subtitle>Code · Notes · Life</subtitle>
+  <link href="https://zhuxinchen-code-learning.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://zhuxinchen-code-learning.github.io/"/>
+  <updated>2026-02-02T17:38:44.180Z</updated>
+  <id>https://zhuxinchen-code-learning.github.io/</id>
+  
+  <author>
+    <name>Zhuxinchen</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>私密学习笔记</title>
+    <link href="https://zhuxinchen-code-learning.github.io/2026/02/03/%E5%8A%A0%E5%AF%86%E6%96%87%E7%AB%A0/"/>
+    <id>https://zhuxinchen-code-learning.github.io/2026/02/03/%E5%8A%A0%E5%AF%86%E6%96%87%E7%AB%A0/</id>
+    <published>2026-02-02T17:36:26.000Z</published>
+    <updated>2026-02-02T17:38:44.180Z</updated>
+    
+    <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="f417cf4e1c50b20b5da7608f8a3c7304418c7582dedd7743d3e28b6c99463765">e16df09abbb65805c82caebd51880abe5b2f7ebca8c7c240d32212a44cc4389d7b5804f0376c4960737511a8088918044528ea7b8178e68e2ed96fd0ad3955361fecd3772c8d5cdc006826e3a04a0df23cf9bacdd7f4f8fdbe6333f054ff280cca048acf88976671457db2d0a1ecdec41398f94ab6b826ebe63a5021925ddd01100c8eedc0c99fccff3e4ac340ac4d9f6fb48fa886d4dc4ebbd4f4a239b3c248ee04b0166c333ec8abcd4bec562f078b845fa9492cea56eb5655adf9dd4fb8e1a8ef1c5cba62e6c87e3d92dd4d0ff582277cdd74e4c494a2054e73538db42f4e95cf341677ae0484c14adfd377faa44bb94d9200cd533dbbcf4a618691c4ddbcfed8446d1be9a64770f77551aa7572f5bd72eea6b5cc2e4783b003f93353549ed10c55cf1d9ca72bd0ae2394995af40a9cd9ad2b5ee0bd9448dbd0d571d03b4492b80d9613dedafe260a9d8534996a17ba0bfedc927338dfb5d9c018836845eb1814586b3da15413c0431d19d8bd2b9f8b5fdbc5a8c5ac9917febf5eb567350963be34e72851e4488b90bd38c54268b5beb5c884106327b3be003b84ad2de2a446f3be099a84e2869e79356b274836031816deba94a2e4acd435f19353795bbf06f5925427342895eb36ad6e7357b9b5a5a92709376023e4d68711a0b4373765df908ab7980bd5c70de271ce79aa2e2b36266c1b0463ee70455bf418c553bb01d5fc90ae8ea1991d6ee3478a35ad1795cb9cd119b6685512c839d516c5eff7a863fce04d7ea308f06d3b2746e537e67b956d7be6d58e757d051768e8b61cbf83c05a46245abf7447798275f86e25039cbd4546a2a44843a058ddad90004e065a79a7e74ea022177b0749666777586f5c0bd20bf9055db69477fc9ca415da559f8d0b38414c28e9dfb85339b7cdb77fa4dafc526909311456fdf5db7d2b9a93950371012fc1368ea5d41598c9c36db49f765513bb7ac9997bc502b901f931fed0ffc9b0fa90a69017987998f158793545cec4dd11faeeedbec5c0af56ddd25e56b4bd9e4a03b4f7074d2bfd78fa42f70d35fcb052eee56497a0514dcd967ca4637bbe17e56b2a4c119419270d2783cc6f4dc9248f62c1fd905babeadb3e3c72e62b87a3cea7c6230760e1b0d894ef82d2b51ab1e59192c129dfb8d5cf969dd07a82bc72eeb788bca2f28befa7ef90a48902614678a9e36048e21e1b6e084c8f7e4e7b7967193d14bf45f7a9131f09d5028acef00e857419539c29ed724cb4fbc7d4c7c6f0ec09e6e1b4b84f59336383568a7dca282cb21c26d51d95c75f43493c2c2b9e50d63e665dcd4cd3e944c6825a56c6b8fb4691e28d8e872a49ff47db8d866eae28aef6ffad2c4c9889e4784ecd47275b15427a2e635d18ba9869ad4fbcb12024d89a6264aee598b6e5ee9ac984ffb835819987eb8d3ed37b9950aeb4ec3251f0c339989d959626d492b11ff89e</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>      </label>    </div>  </div></div><link href="/css/hbe.style.css" rel="stylesheet" type="text/css"><script data-swup-reload-script type="module" src="/js/plugins/hbe.js"></script><script data-swup-reload-script type="module">import {initHBE} from "/js/plugins/hbe.js";  console.log("hexo-blog-encrypt: loaded.");    initHBE();</script>]]></content>
+    
+    
+    <summary type="html">加密文章</summary>
+    
+    
+    
+    
+    <category term="技术" scheme="https://zhuxinchen-code-learning.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Typora 的 Markdown 语法</title>
+    <link href="https://zhuxinchen-code-learning.github.io/2026/02/02/markdown%E7%9A%84%E4%BD%BF%E7%94%A8/"/>
+    <id>https://zhuxinchen-code-learning.github.io/2026/02/02/markdown%E7%9A%84%E4%BD%BF%E7%94%A8/</id>
+    <published>2026-02-02T07:17:15.000Z</published>
+    <updated>2026-02-02T17:36:36.827Z</updated>
+    
+    <content type="html"><![CDATA[<p>[toc]</p><h1 id="块元素"><a href="#块元素" class="headerlink" title="块元素"></a>块元素</h1><h2 id="标题"><a href="#标题" class="headerlink" title="标题"></a>标题</h2><ul><li><h3 id="这是一级标题"><a href="#这是一级标题" class="headerlink" title="# 这是一级标题"></a># 这是一级标题</h3></li><li><h3 id="这是二级标题"><a href="#这是二级标题" class="headerlink" title="##这是二级标题"></a>##这是二级标题</h3></li><li><h3 id="这是六级标题"><a href="#这是六级标题" class="headerlink" title="######这是六级标题"></a>######这是六级标题</h3></li></ul><h2 id="引用文字"><a href="#引用文字" class="headerlink" title="引用文字"></a>引用文字</h2><ul><li><blockquote><p>这是一个有两段的块引用。这是第一段。</p><p>这是第二段。Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.</p></blockquote><blockquote><p>这是另一个只有一个段落的块引用。有三个空行分隔两个块引用。</p></blockquote></li></ul><h2 id="列表"><a href="#列表" class="headerlink" title="列表"></a>列表</h2><ul><li><p>无序列表（*，+，-）开头</p></li><li><p>有序列表（1.）开头</p></li><li><ul><li><ol><li>试试</li><li>可以</li></ol></li></ul></li></ul><h2 id="任务列表-和-x"><a href="#任务列表-和-x" class="headerlink" title="任务列表: -[ ]和- [x]"></a>任务列表: -[ ]和- [x]</h2><ul><li><p><input disabled="" type="checkbox"> 这是一个任务列表项 </p></li><li><p><input disabled="" type="checkbox"> 需要在前面使用列表的语法</p></li><li><p><input disabled="" type="checkbox"> normal <em><strong>*formatting*</strong></em>, @mentions, #1234 refs</p></li><li><p><input disabled="" type="checkbox"> 未完成 </p></li><li><p><input checked="" disabled="" type="checkbox"> 完成</p></li></ul><h2 id="（栅栏式）代码块-代码"><a href="#（栅栏式）代码块-代码" class="headerlink" title="（栅栏式）代码块:`&#96;&#96;代码&#96;&#96;&#96;"></a>（栅栏式）代码块:`&#96;&#96;代码&#96;&#96;&#96;</h2><div class="code-container" data-rel="Python"><figure class="iseeu highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">```</span><br><span class="line">function test() &#123;</span><br><span class="line">  console.log(<span class="string">&quot;notice the blank line before this function?&quot;</span>);</span><br><span class="line">&#125;</span><br><span class="line">```</span><br></pre></td></tr></table></figure></div><div class="code-container" data-rel="Plaintext"><figure class="iseeu highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br></pre></td><td class="code"><pre><span class="line">```ruby</span><br><span class="line">require &#x27;redcarpet&#x27;</span><br><span class="line">markdown = Redcarpet.new(&quot;Hello World!&quot;)</span><br><span class="line">puts markdown.to_html</span><br><span class="line">```</span><br></pre></td></tr></table></figure></div><h2 id="数学公式块-公式"><a href="#数学公式块-公式" class="headerlink" title="数学公式块:$$ 公式 $$"></a>数学公式块:$$ 公式 $$</h2><p>$$<br>\mathbf{V}_1 \times \mathbf{V}_2 &#x3D;  \begin{vmatrix}<br>\mathbf{i} &amp; \mathbf{j} &amp; \mathbf{k} \<br>\frac{\partial X}{\partial u} &amp;  \frac{\partial Y}{\partial u} &amp; 0 \ \frac{\partial X}{\partial v} &amp;\frac{\partial Y}{\partial v} &amp; 0 \ \end{vmatrix}<br>$$</p><h2 id="表格-1-2"><a href="#表格-1-2" class="headerlink" title="表格: |1|2|"></a>表格: |1|2|</h2><table><thead><tr><th>1</th><th>2</th></tr></thead><tbody><tr><td></td><td></td></tr></tbody></table><h2 id="脚注-内容"><a href="#脚注-内容" class="headerlink" title="脚注:[^内容 ]"></a>脚注:[^内容 ]</h2><p>您可以像这样创建脚注[^footnote]. </p><p>[^footnote]: Here is the <strong>text</strong> of the <em><strong>*footnote*</strong></em>.</p><h2 id="水平线-或者-–"><a href="#水平线-或者-–" class="headerlink" title="水平线:***或者-–"></a>水平线:***或者-–</h2><hr><hr><h2 id="目录-toc"><a href="#目录-toc" class="headerlink" title="目录[toc]"></a>目录[toc]</h2><h1 id="span元素"><a href="#span元素" class="headerlink" title="span元素"></a>span元素</h1><h2 id="链接"><a href="#链接" class="headerlink" title="链接"></a>链接</h2><p>This is [an example](<a class="link"   href="http://example.com/" >http://example.com/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> “Title”) inline link.</p><p> [This link](<a class="link"   href="http://example.net/" >http://example.net/<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>) has no title attribute.</p><p>This is <a class="link"   href="http://example.com/"  title="Title">an example<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> inline link. <a class="link"   href="http://example.net/" >This link<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> has no title attribute.</p><h3 id="内部链接"><a href="#内部链接" class="headerlink" title="内部链接"></a>内部链接</h3><h3 id="参考链接"><a href="#参考链接" class="headerlink" title="参考链接"></a>参考链接</h3><h2 id="URL网址"><a href="#URL网址" class="headerlink" title="URL网址&lt;&gt;"></a>URL网址&lt;&gt;</h2><p>&lt;<a href="http://www.google.com>">www.google.com&gt;</a></p><h2 id="图片"><a href="#图片" class="headerlink" title="图片"></a>图片</h2><p><img                       lazyload                     src="/images/loading.svg"                     data-src="/path/to/img.jpg"                      alt="替代文字"                ></p><p><img                       lazyload                     src="/images/loading.svg"                     data-src="/path/to/img.jpg"                      alt="替代文字" title="可选标题"                ></p><h2 id="强调（斜体）"><a href="#强调（斜体）" class="headerlink" title="强调（斜体）"></a>强调（斜体）</h2><p>*单个星号*</p><p>_单个下划线_</p><p><em>单个星号</em> </p><p><em>单个下划线</em></p><h2 id="粗体"><a href="#粗体" class="headerlink" title="粗体"></a>粗体</h2><p>*<em>双星号</em>*</p><p>_<em>双重下划线</em>_</p><p><strong>双星号</strong></p><p><strong>双重下划线</strong></p><h2 id="代码"><a href="#代码" class="headerlink" title="代码"></a>代码</h2><p>`printf()</p><div class="code-container" data-rel="C++"><figure class="iseeu highlight c++"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">printf</span>()</span><br></pre></td></tr></table></figure></div><h2 id="删除线"><a href="#删除线" class="headerlink" title="删除线"></a>删除线</h2><p>~~错误文字~~ <del>错误文字</del></p><h2 id="下划线"><a href="#下划线" class="headerlink" title="下划线"></a>下划线</h2><p>&lt;u&gt;下划线</u></p><p><u>下划线</u></p><h2 id="表情符号​-smile"><a href="#表情符号​-smile" class="headerlink" title="表情符号​:smile:"></a>表情符号​:smile:</h2><p>:smile:</p><h1 id="HTML"><a href="#HTML" class="headerlink" title="HTML"></a>HTML</h1><h2 id="嵌入内容"><a href="#嵌入内容" class="headerlink" title="嵌入内容"></a>嵌入内容</h2><div class="code-container" data-rel="Markdown"><figure class="iseeu highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">iframe height=&#x27;265&#x27; scrolling=&#x27;no&#x27; title=&#x27;Fancy Animated SVG Menu&#x27; src=&#x27;http://codepen.io/jeangontijo/embed/OxVywj/?height=265&amp;theme-id=0&amp;default-tab=css,result&amp;embed-version=2&#x27; frameborder=&#x27;no&#x27; allowtransparency=&#x27;true&#x27; allowfullscreen=&#x27;true&#x27; style=&#x27;width: 100%;&#x27;&gt;<span class="language-xml"><span class="tag">&lt;/<span class="name">iframe</span>&gt;</span></span></span><br></pre></td></tr></table></figure></div><h2 id="视频"><a href="#视频" class="headerlink" title="视频"></a>视频</h2><div class="code-container" data-rel="Markdown"><figure class="iseeu highlight markdown"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="language-xml"><span class="tag">&lt;<span class="name">video</span> <span class="attr">src</span>=<span class="string">&quot;xxx.mp4&quot;</span> /&gt;</span></span></span><br></pre></td></tr></table></figure></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;[toc]&lt;/p&gt;
+&lt;h1 id=&quot;块元素&quot;&gt;&lt;a href=&quot;#块元素&quot; class=&quot;headerlink&quot; title=&quot;块元素&quot;&gt;&lt;/a&gt;块元素&lt;/h1&gt;&lt;h2 id=&quot;标题&quot;&gt;&lt;a href=&quot;#标题&quot; class=&quot;headerlink&quot; title=&quot;标题&quot;&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="-技术" scheme="https://zhuxinchen-code-learning.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>更改网站的外观</title>
+    <link href="https://zhuxinchen-code-learning.github.io/2026/02/02/%E6%9B%B4%E6%94%B9%E7%BD%91%E7%AB%99%E7%9A%84%E5%A4%96%E8%A7%82/"/>
+    <id>https://zhuxinchen-code-learning.github.io/2026/02/02/%E6%9B%B4%E6%94%B9%E7%BD%91%E7%AB%99%E7%9A%84%E5%A4%96%E8%A7%82/</id>
+    <published>2026-02-02T06:46:39.000Z</published>
+    <updated>2026-02-02T07:17:22.919Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="更改网站图标"><a href="#更改网站图标" class="headerlink" title="更改网站图标"></a>更改网站图标</h2><h3 id="下载-ico-格式-大小为32-32或者16-16的文件，添加到-my-blog-source-目录下面"><a href="#下载-ico-格式-大小为32-32或者16-16的文件，添加到-my-blog-source-目录下面" class="headerlink" title="下载.ico 格式,大小为32*32或者16**16的文件，添加到~&#x2F;my-blog&#x2F;source&#x2F;目录下面"></a>下载.ico 格式,大小为32*32或者16**16的文件，添加到~&#x2F;my-blog&#x2F;source&#x2F;目录下面</h3><h2 id="更改分类导航"><a href="#更改分类导航" class="headerlink" title="更改分类导航"></a>更改分类导航</h2><h3 id="在目录-my-blog-themes-landscape-config-yml中里面任意位置添加"><a href="#在目录-my-blog-themes-landscape-config-yml中里面任意位置添加" class="headerlink" title="在目录~&#x2F;my-blog&#x2F;themes&#x2F;landscape&#x2F;_config.yml中里面任意位置添加"></a>在目录~&#x2F;my-blog&#x2F;themes&#x2F;landscape&#x2F;_config.yml中<head>里面任意位置添加</h3>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;更改网站图标&quot;&gt;&lt;a href=&quot;#更改网站图标&quot; class=&quot;headerlink&quot; title=&quot;更改网站图标&quot;&gt;&lt;/a&gt;更改网站图标&lt;/h2&gt;&lt;h3 id=&quot;下载-ico-格式-大小为32-32或者16-16的文件，添加到-my-blog-source-目</summary>
+      
+    
+    
+    
+    
+    <category term="技术" scheme="https://zhuxinchen-code-learning.github.io/tags/%E6%8A%80%E6%9C%AF/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://zhuxinchen-code-learning.github.io/2026/02/02/hello-world/"/>
+    <id>https://zhuxinchen-code-learning.github.io/2026/02/02/hello-world/</id>
+    <published>2026-02-02T03:36:01.119Z</published>
+    <updated>2026-02-02T03:36:01.119Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>! This is your very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/writing.html" >Writing<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/server.html" >Server<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/generating.html" >Generating<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><div class="code-container" data-rel="Bash"><figure class="iseeu highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure></div><p>More info: <a class="link"   href="https://hexo.io/docs/one-command-deployment.html" >Deployment<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a class=&quot;link&quot;   href=&quot;https://hexo.io/&quot; &gt;Hexo&lt;i class=&quot;fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>我的第一篇博客</title>
+    <link href="https://zhuxinchen-code-learning.github.io/2026/02/02/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
+    <id>https://zhuxinchen-code-learning.github.io/2026/02/02/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
+    <published>2026-02-01T16:00:00.000Z</published>
+    <updated>2026-02-02T07:02:08.847Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="以后我的所有新功能测试都会用这个"><a href="#以后我的所有新功能测试都会用这个" class="headerlink" title="以后我的所有新功能测试都会用这个"></a>以后我的所有新功能测试都会用这个</h1>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;以后我的所有新功能测试都会用这个&quot;&gt;&lt;a href=&quot;#以后我的所有新功能测试都会用这个&quot; class=&quot;headerlink&quot; title=&quot;以后我的所有新功能测试都会用这个&quot;&gt;&lt;/a&gt;以后我的所有新功能测试都会用这个&lt;/h1&gt;</summary>
+      
+    
+    
+    
+    <category term="技术笔记" scheme="https://zhuxinchen-code-learning.github.io/categories/%E6%8A%80%E6%9C%AF%E7%AC%94%E8%AE%B0/"/>
+    
+    
+    <category term="Hexo" scheme="https://zhuxinchen-code-learning.github.io/tags/Hexo/"/>
+    
+    <category term="Blog" scheme="https://zhuxinchen-code-learning.github.io/tags/Blog/"/>
+    
+    <category term="Test" scheme="https://zhuxinchen-code-learning.github.io/tags/Test/"/>
+    
+  </entry>
+  
+</feed>
