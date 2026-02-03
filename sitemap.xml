@@ -65,20 +65,6 @@
 
   
   <url>
-    <loc>https://zhuxinchen-code-learning.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2026-02-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://zhuxinchen-code-learning.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
-    <lastmod>2026-02-03</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://zhuxinchen-code-learning.github.io/tags/Hexo/</loc>
     <lastmod>2026-02-03</lastmod>
     <changefreq>weekly</changefreq>
@@ -94,6 +80,20 @@
   
   <url>
     <loc>https://zhuxinchen-code-learning.github.io/tags/Test/</loc>
+    <lastmod>2026-02-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhuxinchen-code-learning.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2026-02-03</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://zhuxinchen-code-learning.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
     <lastmod>2026-02-03</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
